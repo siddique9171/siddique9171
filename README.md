@@ -42,9 +42,9 @@ With a strong academic and professional background, I continuously strive to bri
 
 ## 📫 Let's Connect!
 
-- **GitHub**: [github.com/your-username](https://github.com/siddique9171)
-- **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/muhammad-siddique-97528922b/)
-- **Email**: [your-email@example.com](mailto:siddique9171@gmail.com)
+- **GitHub**: [github.com/[your-username](https://github.com/siddique9171)](https://github.com/siddique9171)
+- **LinkedIn**: [linkedin.com/in/muhammad-siddique-97528922b](https://www.linkedin.com/in/muhammad-siddique-97528922b/)
+- **Email**: [siddique9171@gmail.com](mailto:siddique9171@gmail.com)
 
 ---
 
