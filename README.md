@@ -40,21 +40,25 @@ With a strong academic and professional background, I continuously strive to bri
 
 ## 🌱 Current Interests
 
-- **Research**: Advancing the fields of AI and ML with innovative applications.
-- **Teaching**: Educating and mentoring students to succeed in technology-driven careers.
-- **Development**: Building intelligent systems and web platforms that solve real-world problems.
+- **Research & Innovation**: Advancing the fields of Artificial Intelligence, Machine Learning, and Data Engineering through novel applications and hybrid modeling.
+- **Mathematical Modeling**: Exploring optimization, simulations, and control theory for intelligent systems.
+- **Teaching & Mentorship**: Passionate about educating the next generation of developers and engineers in AI, data science, and modern programming.
+- **Development**: Building intelligent, scalable, and user-centric software systems, websites, and data pipelines using cutting-edge technologies.
+- **Technical Writing**: Authoring professional content and books using LaTeX with deep technical insight and academic precision.
 
 ---
 
 ## 📫 Let's Connect!
 
-- **GitHub**: [github.com/siddique9171]
-- **LinkedIn**: [linkedin.com/in/muhammad-siddique-97528922b]
-- **Email**: [siddique9171@gmail.com]
+- **GitHub**: [github.com/siddique9171](https://github.com/siddique9171)
+- **LinkedIn**: [linkedin.com/in/muhammad-siddique-97528922b](https://www.linkedin.com/in/muhammad-siddique-97528922b)
+- **Email**: siddique9171@gmail.com
 
 ---
 
 ### 💡 Fun Fact
-I'm passionate about both **coding** and **teaching**, and I believe that education is the key to unlocking the true potential of technology!
 
-Feel free to explore my repositories, collaborate on exciting projects, or reach out for discussions on AI, ML, and Software Development. Let's build the future together!
+I blend the art of **coding**, **teaching**, and **mathematical thinking** to design systems that are both intelligent and impactful. Whether it’s writing clean code, modeling real-world systems, or crafting technical documents in LaTeX — I enjoy turning complex ideas into practical solutions.
+
+> 🚀 *Feel free to explore my repositories, collaborate on projects, or reach out for engaging discussions in AI, ML, Data Engineering, and beyond. Let's innovate together!*
+
