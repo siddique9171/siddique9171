@@ -5,6 +5,7 @@
 ## 🌟 About Me
 
 I am an expert in:
+- **Data Engineering**
 - **Machine Learning (ML)**
 - **Artificial Intelligence (AI)**
 - **Software Development**
