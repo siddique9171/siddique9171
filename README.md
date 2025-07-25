@@ -9,6 +9,8 @@ I am an expert in:
 - **Machine Learning (ML)**
 - **Artificial Intelligence (AI)**
 - **Software Development**
+- **Mathematical Modeling**
+- **Latex Writeup**
 - **Website Development** using well-known coding technologies and frameworks.
 
 With a strong academic and professional background, I continuously strive to bridge the gap between theoretical knowledge and practical implementation.
