@@ -26,11 +26,15 @@ With a strong academic and professional background, I continuously strive to bri
 
 ## 🛠️ Skills
 
-- **Programming Languages**: Python, Java, C++, PHP, JavaScript
-- **Machine Learning Tools**: TensorFlow, PyTorch, Scikit-Learn, Keras
-- **Web Development**: HTML, CSS, JavaScript, PHP, Laravel, WordPress
-- **Database Management**: MySQL, MongoDB
-- **Version Control**: Git, GitHub
+- **Programming Languages**: Python, Java, C++, PHP, JavaScript, SQL
+- **Data Engineering**: Apache Spark, Hadoop, Airflow, Kafka, ETL Pipelines, Data Warehousing (e.g., Snowflake, BigQuery)
+- **Artificial Intelligence & Machine Learning**: TensorFlow, PyTorch, Scikit-Learn, Keras, OpenCV, NLP (spaCy, NLTK), Deep Learning, Reinforcement Learning
+- **Mathematical Modeling**: Optimization, Simulation, Statistical Analysis, Differential Equations, MATLAB, NumPy, SciPy
+- **LaTeX & Technical Writing**: Advanced LaTeX (XeLaTeX, TikZ, IEEE/ACM Templates), Academic Papers, Books, Documentation
+- **Web Development**: HTML, CSS, JavaScript, PHP, Laravel, React, Node.js, WordPress, REST APIs
+- **Database Management**: MySQL, PostgreSQL, MongoDB, Firebase
+- **Software Development**: Object-Oriented Programming, Software Architecture, API Development, Agile/Scrum, Unit Testing
+- **Version Control & DevOps**: Git, GitHub, GitLab, CI/CD (GitHub Actions, Jenkins), Docker, Linux
 
 ---
 
