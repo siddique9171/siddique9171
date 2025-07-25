@@ -6,8 +6,7 @@
 
 I am an expert in:
 - **Data Engineering**
-- **Machine Learning (ML)**
-- **Artificial Intelligence (AI)**
+- ** Artificial Intelligence (AI) & Machine Learning (ML)**
 - **Software Development**
 - **Mathematical Modeling**
 - **Latex Writeup**
