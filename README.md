@@ -40,11 +40,17 @@ With a strong academic and professional background, I continuously strive to bri
 
 ## 🎓 Certifications
 
-- **[TensorFlow Developer Certificate](https://www.tensorflow.org/certificate)** – Issued by Google
-- **[AWS Certified Solutions Architect – Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)**
-- **[Deep Learning Specialization](https://coursera.org/verify/YOUR-CERTIFICATE-ID)** – deeplearning.ai
-- **[Data Engineering on Google Cloud](https://coursera.org/verify/YOUR-CERTIFICATE-ID)** – Google / Coursera
-- **[LaTeX for Professional Publications](https://www.example.com/latex-cert)**
+- **[Google Cloud Big Data and Machine Learning Fundamentals](https://www.coursera.org/account/accomplishments/certificate/7XF9GDCYQD9Y)**
+- **[Modernizing Data Lakes and Data Warehouses with Google Cloud](https://www.coursera.org/account/accomplishments/verify/P8R89ETPWXRN)**
+- **[Building Batch Data Pipelines on Google Cloud](https://www.coursera.org/account/accomplishments/verify/4CXWC8DZ8WRX)**
+- **[Building Resilient Streaming Analytics Systems on Google Cloud](https://www.coursera.org/account/accomplishments/verify/55DG7SDELBBV)**
+- **[Smart Analytics, Machine Learning, and AI on Google Cloud](https://www.coursera.org/account/accomplishments/verify/NTVMQ7ZYNPV5)**
+- **[Analyze Datasets and Train ML Models using AutoML](https://www.coursera.org/account/accomplishments/certificate/5X6LNRNCHS2N)**
+- **[Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/verify/338B6MXCA74Y)**
+- **[Algebra: Elementary to Advanced – Equations & Inequalities (Johns Hopkins University)](https://www.coursera.org/account/accomplishments/certificate/MCHDTE6WHCQS)**
+- **[Digital Forensics Concepts](https://www.coursera.org/account/accomplishments/verify/G25R2YAGF28D)**
+- **[Introduction to Python Programming](https://www.coursera.org/account/accomplishments/certificate/QUR7JPWNP9FP)**
+- **[Mastering Laravel Framework and PHP](https://www.coursera.org/account/accomplishments/certificate/5UEN9WQVLSML)**
 
 
 ## 🌱 Current Interests
