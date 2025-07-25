@@ -38,6 +38,15 @@ With a strong academic and professional background, I continuously strive to bri
 
 ---
 
+## 🎓 Certifications
+
+- **[TensorFlow Developer Certificate](https://www.tensorflow.org/certificate)** – Issued by Google
+- **[AWS Certified Solutions Architect – Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)**
+- **[Deep Learning Specialization](https://coursera.org/verify/YOUR-CERTIFICATE-ID)** – deeplearning.ai
+- **[Data Engineering on Google Cloud](https://coursera.org/verify/YOUR-CERTIFICATE-ID)** – Google / Coursera
+- **[LaTeX for Professional Publications](https://www.example.com/latex-cert)**
+
+
 ## 🌱 Current Interests
 
 - **Research & Innovation**: Advancing the fields of Artificial Intelligence, Machine Learning, and Data Engineering through novel applications and hybrid modeling.
