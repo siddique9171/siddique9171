@@ -1,8 +1,8 @@
 # Dr. Muhammad Siddique
 
-👋 Hi, I'm **Dr. Muhammad Siddique**, an **Assistant Professor** at **NFC Institute of Engineering and Technology, Multan, Pakistan**. My passion lies in leveraging cutting-edge technology to solve real-world problems and empower students and professionals with the knowledge to excel in their careers.
+ i, I'm **Dr. Muhammad Siddique**, an **Assistant Professor** at **NFC Institute of Engineering and Technology, Multan, Pakistan**. My passion lies in leveraging cutting-edge technology to solve real-world problems and empower students and professionals with the knowledge to excel in their careers.
 
-## 🌟 About Me
+## About Me
 
 I am an expert in:
 - **Data Engineering**
@@ -16,7 +16,7 @@ With a strong academic and professional background, I continuously strive to bri
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 - **Position**: Assistant Professor  
 - **Institution**: NFC Institute of Engineering and Technology, Multan  
@@ -24,7 +24,7 @@ With a strong academic and professional background, I continuously strive to bri
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 - **Programming Languages**: Python, Java, C++, PHP, JavaScript, SQL
 - **Data Engineering**: Apache Spark, Hadoop, Airflow, Kafka, ETL Pipelines, Data Warehousing (e.g., Snowflake, BigQuery)
@@ -38,7 +38,7 @@ With a strong academic and professional background, I continuously strive to bri
 
 ---
 
-## 🎓 Certifications
+## Certifications
 
 - **[Google Cloud Big Data and Machine Learning Fundamentals](https://www.coursera.org/account/accomplishments/certificate/7XF9GDCYQD9Y)**
 - **[Modernizing Data Lakes and Data Warehouses with Google Cloud](https://www.coursera.org/account/accomplishments/verify/P8R89ETPWXRN)**
@@ -53,7 +53,7 @@ With a strong academic and professional background, I continuously strive to bri
 - **[Mastering Laravel Framework and PHP](https://www.coursera.org/account/accomplishments/certificate/5UEN9WQVLSML)**
 
 
-## 🌱 Current Interests
+##  Current Interests
 
 - **Research & Innovation**: Advancing the fields of Artificial Intelligence, Machine Learning, and Data Engineering through novel applications and hybrid modeling.
 - **Mathematical Modeling**: Exploring optimization, simulations, and control theory for intelligent systems.
@@ -63,7 +63,7 @@ With a strong academic and professional background, I continuously strive to bri
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 - **GitHub**: [github.com/siddique9171](https://github.com/siddique9171)
 - **LinkedIn**: [linkedin.com/in/muhammad-siddique-97528922b](https://www.linkedin.com/in/muhammad-siddique-97528922b)
@@ -71,7 +71,7 @@ With a strong academic and professional background, I continuously strive to bri
 
 ---
 
-### 💡 Fun Fact
+###  Fun Fact
 
 I blend the art of **coding**, **teaching**, and **mathematical thinking** to design systems that are both intelligent and impactful. Whether it’s writing clean code, modeling real-world systems, or crafting technical documents in LaTeX — I enjoy turning complex ideas into practical solutions.
 
